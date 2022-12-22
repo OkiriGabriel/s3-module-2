@@ -1,0 +1,1 @@
+This terraform module create its resources from a custom terraform files saved in the resource folder
